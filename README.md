@@ -1,0 +1,1 @@
+# building-a-modular-monolith-with-vertical-slice-architecture-in-dotnet
